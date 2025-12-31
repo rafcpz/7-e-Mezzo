@@ -1,0 +1,5 @@
+{
+  "name": "7 e Mezzo - Gestore Piatto - deploy",
+  "description": "Un'applicazione per gestire il piatto (banco) e le scommesse per il gioco di carte Sette e Mezzo, con assistente alle regole AI.",
+  "requestFramePermissions": []
+}
